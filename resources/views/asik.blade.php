@@ -8,7 +8,7 @@
   </head>
   <body>
     <h1>welkam to kufuki land</h1>
-    <p>menyala abangkuhhhhhhh</p>
+    <p>masih menyala abangkuhhhhhhh</p>
     <a href="/">viral</a>
     <a href="/asik">viral 1</a>
     <a href="/belajar">viral 2</a>
